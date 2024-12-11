@@ -35,16 +35,16 @@
           </div>
         </div>
         <form action="" method="post">
-    <div class="card-body">
-        <div class="form-group">
-            <label for="nama_kategori">Nama Kategori</label>
-            <input type="text" class="form-control" id="nama_kategori" name="nama_kategori" placeholder="Enter Nama Kategori" required>
-        </div>
-    </div>
-    <!-- /.card-body -->
-    <div class="card-footer">
-        <button type="submit" class="btn btn-primary">Submit</button>
-    </div>
+<div class="card-body">
+<div class="form-group">
+<label for="nama_kategori">Nama Kategori</label>
+<input type="text" class="form-control" id="nama_kategori" name="nama_kategori" placeholder="Enter Nama Kategori" required>
+</div>
+</div>
+<!-- /.card-body -->
+<div class="card-footer">
+<button type="submit" class="btn btn-primary">Submit</button>
+</div>
 </form>
 
         <!-- /.card-body -->
